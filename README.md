@@ -11,10 +11,7 @@ I made the conv_compare function based on the one hw where we convolved with a t
 I exploit the fact that multiplication in one domain is convolution in other and the fact we already found the fft.
 This feature has not been implemented yet since I need to somehow condense this into a number
 
-For now the model I made combines ICA and K clustering to work, it was just to get something that works so we can finish
+For now the model I made combines ICA and SVM to work, it was just to get something that works so we can finish
 hw7
-
-Also I have sorted things into similar groups but like I have not listened to the songs enough to say the labels
-are accurate, maybe listen to some song from each of the groups to given them accurate labels
 
 Then I figured out how to put the predictions into a .csv of the required format.
